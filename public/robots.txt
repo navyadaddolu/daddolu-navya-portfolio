@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-portfolio-sage-six-chjg094v4h.vercel.app/sitemap.xml

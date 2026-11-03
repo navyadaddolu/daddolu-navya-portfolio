@@ -1,16 +1,38 @@
-# React + Vite
+# DADDOLU NAVYA — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Live site: [https://my-portfolio-sage-six-chjg094v4h.vercel.app](https://my-portfolio-sage-six-chjg094v4h.vercel.app)
 
-Currently, two official plugins are available:
+Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
+A modern, responsive developer portfolio showcasing projects, technical skills, and experience in Data Analysis, Python, SQL, and machine learning.
 
-## React Compiler
+## Tech Stack
+- **Framework:** React 19, Vite
+- **Styling:** Tailwind CSS 4
+- **Animations:** Framer Motion, AOS
+- **Contact:** EmailJS integration with fallback
+- **Interactive UI:** Fluid Splash Cursor, 3D flip ID badge, SVG scroll animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Getting Started
 
-## Expanding the Oxlint configuration
+### Prerequisites
+- Node.js (v18+)
+- npm / pnpm
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Installation
+```bash
+git clone https://github.com/navyadaddolu/daddolu-navya-portfolio.git
+cd daddolu-navya-portfolio
+npm install
+```
+
+### Development
+```bash
+npm run dev
+```
+
+### Build
+```bash
+npm run build
+```
