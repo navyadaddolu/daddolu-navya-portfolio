@@ -20,6 +20,7 @@
 /* ─── Base styles ─────────────────────────────────────────── */
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -28,4 +29,5 @@ body {
   background-color: #000;
   color: #fff;
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
 }
